@@ -28,12 +28,12 @@ If you've already paid for Quicken and are ready to get started, follow these st
 9. If you have a retail boxed version, enter the activation key inside the package.
 10. Finish setup and start using Quicken to manage your finances!
 
-How to Install Quicken on This Computer
+How to Install Quicken on This Computer?
 ----------------------------------------
 
 After you've downloaded the installer, here’s how to **install Quicken on this computer**:
 
-### For Windows:
+**For Windows:**
 
 - Double-click the downloaded `.exe` file
 - Click **Yes** to allow changes
@@ -46,7 +46,7 @@ After you've downloaded the installer, here’s how to **install Quicken on this
 - Restore data if needed
 - Begin managing your budget or investments
 
-### For macOS:
+**For macOS:**
 
 - Open the `.dmg` file
 - Drag the Quicken app icon to the **Applications** folder
