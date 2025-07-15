@@ -11,8 +11,8 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Setup YouTube at Yt.be Activate with TV Code'
-copyright = '2025, YouTubetv'
+project = 'Quicken Help Guide'
+copyright = '2025, Quicken Help Guide'
 author = 'Support team'
 
 # The full version, including alpha/beta/rc tags
@@ -21,10 +21,10 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "Yt.be/activate - How to Setup YouTube at Yt.be Activate with TV Code"
+html_title = "Already Purchased Quicken? Here’s How to Redeem, Activate, and Install Quicken on this computer"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "How to Setup YouTube at Yt.be Activate with TV Code"
+html_short_title = "Redeem, Activate, and Install Quicken on this computer"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
