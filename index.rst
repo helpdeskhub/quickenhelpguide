@@ -5,7 +5,7 @@ If you’ve already purchased Quicken, you’re just minutes away from managing 
 
 .. image:: get-start-button.png
    :alt: install Quicken on this computer
-   :target: 
+   :target: https://helpguidecorner.github.io/quickenhelpguid.html
 
 
 
