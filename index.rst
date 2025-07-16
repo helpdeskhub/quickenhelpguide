@@ -167,3 +167,22 @@ Downloading, activating, and installing Quicken is simple when you follow the st
 ✅ Start managing your finances with confidence
 
 *Disclaimer: This guide is for informational purposes. Always refer to Quicken’s official website for the latest tools, support, and instructions.*
+
+
+.. raw:: html
+
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stats.us3.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '151']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+
